@@ -1,0 +1,29 @@
+{
+  "name": "electron-react",
+  "version": "0.0.1",
+  "description": "electron项目脚手架(react)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeupin/electron-react.git"
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "boilerplate"
+  ],
+  "author": "Zeupin LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeupin/electron-react/issues"
+  },
+  "homepage": "https://github.com/zeupin/electron-react#readme",
+  "dependencies": {
+    "electron": "^4.1.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
+}
