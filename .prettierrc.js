@@ -17,12 +17,16 @@ module.exports = {
   // 行结尾是否用分号
   semi: true,
 
-  // 结尾逗号
+  // 对象和数组结尾元素后的逗号
   trailingComma: 'es5',
 
-  // 大括号内加空格
+  // 大括号内空格
   bracketSpacing: false,
 
   // 行结束符
   endOfLine: 'lf',
+
+  // JSX
+  jsxSingleQuote: false,
+  jsxBracketSameLine: true,
 };
