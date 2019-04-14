@@ -15,6 +15,7 @@
     "react",
     "boilerplate"
   ],
+  "copyright": "(c)2019, Zeupin LLC",
   "author": "Zeupin LLC",
   "license": "MIT",
   "bugs": {
@@ -24,7 +25,6 @@
   "dependencies": {
     "@ant-design/icons": "^1.1.16",
     "antd": "^3.15.1",
-    "electron": "^4.0",
     "react": "^16.0",
     "react-dom": "^16.0",
     "react-redux": "^6.0",
@@ -33,6 +33,8 @@
     "redux": "^4.0"
   },
   "devDependencies": {
+    "electron": "^4.1.4",
+    "electron-builder": "^20.39.0",
     "electron-packager": "^13.1.1"
   }
 }
